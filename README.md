@@ -48,10 +48,10 @@ You can interact with the model by visiting the live Streamlit app (if hosted). 
 
 ## 🛠️ Built Using
 
-- Python
+- 🐍 Python
 - 🎈 Streamlit
 - 🐼 Pandas
--  🔢 Numpy
+- 🔢 Numpy
 - 🧠 Scikit-learn
 - 📖 Joblib
 
