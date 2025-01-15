@@ -15,7 +15,7 @@ This project uses a **Linear Regression** model to predict students' test scores
 - **Train a Model**: The model is trained using historical data of study hours and scores.
 - **Predict Scores**: Input your study hours, and the model will predict your test score.
 - **Beautiful UI**: Built using **Streamlit**, providing an easy-to-use interface for predictions.
-- **Real-World Data**: The dataset contains **2,500 data points** with hours studied and their corresponding scores.
+- **Real-World Data**: The dataset contains **2,480 data points** with hours studied and their corresponding scores.
 
 ---
 
