@@ -6,7 +6,7 @@ A machine learning project to predict student test scores based on the number of
 
 ## ⚙️ Project Overview
 
-This project uses a **Linear Regression** model to predict students' test scores based on their study hours. The model was trained using **~2,500 data points** and achieves a high **R² score of 96.32%**, indicating that it can predict scores with great accuracy.
+This project uses a **Linear Regression** model to predict students' test scores based on their study hours. The model was trained using **~2,480 data points** and achieves a high **R² score of 96.32%**, indicating that it can predict scores with great accuracy.
 
 ---
 
