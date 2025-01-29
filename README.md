@@ -97,3 +97,8 @@ If this projects helps you, show some love by giving it a star! ⭐
 ---
 Made with ❤️ by [Abhishek Mishra]
 
+# License
+
+This project is licensed under the [MIT License](./LICENSE).  
+For more details, click the link to view the full text of the license.
+
